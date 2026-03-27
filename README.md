@@ -128,4 +128,4 @@ Accuracy improved from ~4% to 79.72% on the skeleton-based test dataset.
 
 ## Disclaimer
 
-This project was developed for educational purposes as part of a Course Evaluation Project.
+This project was developed for educational purposes as part of VITyarthi Course Evaluation Project.
